@@ -17,6 +17,14 @@ I like figuring out how things break, turning tricky user journeys into reliable
 
 [Browse the tests](https://github.com/rozaliyari/yes-or-no/tree/main/tests) · [Read the test cases](https://github.com/rozaliyari/yes-or-no/blob/main/docs/TEST-CASES.md)
 
+### QualityPulse · Test intelligence with evidence
+
+[**QualityPulse**](https://github.com/rozaliyari/qualitypulse) — my open-source QA analytics MVP. Import Playwright JSON and JUnit XML reports, explore test health, and investigate flaky tests through retry evidence and execution history.
+
+Built with TypeScript, Next.js and SQLite, with synthetic demo data, automated tests and GitHub Actions. It separates observed retry recovery from mixed historical outcomes, so each signal comes with context rather than a guess at the cause.
+
+[Explore the project](https://github.com/rozaliyari/qualitypulse) · [See the dashboard](https://github.com/rozaliyari/qualitypulse/blob/main/docs/screenshots/overview.png) · [Read the test strategy](https://github.com/rozaliyari/qualitypulse/blob/main/docs/test-strategy.md)
+
 ### Say hi
 
 Find me on [LinkedIn](https://www.linkedin.com/in/rozita-aliyari/).
